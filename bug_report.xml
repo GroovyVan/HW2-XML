@@ -1,1 +1,10 @@
-
+<report>
+   <id>1</id>
+  <title>simple_bug1</title>
+  <env>Opera ver.1.5</env>
+  <precondition>open https://www.google.com/?hl=ru without vpn</precondition>
+  <str>ask helpful link from frend</str>
+  <ar>get rick rolled</ar>
+  <er>get helpful link</er>
+  <attach>https://www.youtube.com/watch?v=dQw4w9WgXcQ</attach>
+</report>
